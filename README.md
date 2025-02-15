@@ -8,7 +8,8 @@ Write a program to sort an array of integers using the bubble sort algorithm. <b
 Write a program to sort an array of characters using the bubble sort algorithm.
 
 3. Palindrome Check <br>
-Write a program to check if a given string is a palindrome.
+Write a program to check if a given string is a palindrome.<br>
+Write a program to check if a given int is a palindrome.
 
 4. Factorial Calculation <br>
 Write a program to calculate the factorial of a given number using recursion.
