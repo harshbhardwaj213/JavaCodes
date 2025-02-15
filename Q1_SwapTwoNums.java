@@ -1,4 +1,4 @@
-public class SwapTwoNums {
+public class Q1_SwapTwoNums {
     public static void swap(int x, int y){
         x=x+y;
         y=x-y;

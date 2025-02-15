@@ -4,7 +4,8 @@ Basic Questions
 Write a program to swap two numbers without using a temporary variable.
 
 2. Sorting an Array <br>
-Write a program to sort an array of integers using the bubble sort algorithm.
+Write a program to sort an array of integers using the bubble sort algorithm. <br>
+Write a program to sort an array of characters using the bubble sort algorithm.
 
 3. Palindrome Check <br>
 Write a program to check if a given string is a palindrome.
