@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Q8_SumOfDigits {
+public class Q10_SumOfDigits {
     public static int sum(int num){
         int result=0;
         while(num>0){
